@@ -1,2 +1,2 @@
 # GAN-FashionMist
-Generati Adversial Network on the FashionMNIST Data
+Generati Adversial Network on the FashionMNIST Data. This project focuses on utilizing a Generative Adversarial Network (GAN) to generate realistic fashion images using the FashionMNIST dataset. The dataset consists of grayscale images of 10 different categories of fashion items, such as shoes, shirts, and bags. GANs are powerful models for generating new data points by learning the underlying data distribution through a generator and discriminator model setup.
